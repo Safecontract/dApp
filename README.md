@@ -1,13 +1,25 @@
-# LoanSystems
-A decentralised money lending platform built on the Ethereum blockchain. 
+# Lending Platform Prototype - Basic version using Ethereum. Still needs a lot of work.
 
-Objective: To implement an effective decentralized money lending platform. Implementation: We thought of implementing an decentralized money lending platform with deadline and asset storage and verification facilities. We implemented it's basic version using Ethereum (a decentralized Blockchain platform). Our current project supports lending, borrowing, paying debts currently it does not support deadline facility. We have also built basic Asset declaration smart contract which maps a document hash (Assuming every property has a document, whose hash is uploaded to the Blockchain for verification purposes.
+Money Lending Platform  
+
+My objective is to build a decentralized money lending platform. 
+Implementation: A decentralized money lending platform with deadline and asset storage and verification proponents. 
+ 
+
+What I can support right now: Lending, Borrowing, Paying debts currently but it does not support a deadline functionalty. 
+I have also built a basic asset declaration smart contract which maps a document hash (Assuming every property has a document, whose hash is uploaded to the Blockchain for verification purposes.
 The contract simulates a company taking money from the lenders and lending it to borrowers and thus earning commission in the process.
 
-Future Improvements: We are planning to improve our asset storage and verification process, also we are planning to add deadline facility in near future which will help the contract owner as well as borrower the facility of alarm which will inform him about paying debts.
+I need to improve the asset storage and verification process; I'm planning to add a deadline facility in near future which will help the contract owner as well as borrower the facility of alarm which will inform him about paying debts.
 
 Quick guide: Instructions to run the code
-Basic requirements: i) testrpc ii)npm,node-js, web3js iii)truffle 
+
+Basic requirements: 
+
+i) testrpc 
+ii) npm,node-js, web3js 
+iii) truffle 
+
 Steps to follow:
 
          1) Start "testrpc" in one terminal by typing just 'testrpc'.
