@@ -1,7 +1,7 @@
 {
   "name": "ethlenders",
   "version": "1.0.0",
-  "description": "Decentralized Lending Platform",
+  "description": "Money Lending Platform",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.17.2",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkashSarda/LoanSystems.git"
+    "url": "git+https://github.com/Abhinav23/dApp.git"
   },
   "keywords": [
     "Ethereum",
@@ -26,7 +26,7 @@
   "author": "Abhinav Narayanan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkashSarda/LoanSystems/issues"
+    "url": "https://github.com/Abhinav23/dApp/issues"
   },
-  "homepage": "https://github.com/AkashSarda/LoanSystems#readme"
+  "homepage": "https://github.com/Abhinav23/dApp#readme"
 }
